@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sirajshaikh7068",
   resume:
-    "https://drive.google.com/file/d/1HkbCjzoRtZHjZiP9Vl2B8su5bTh7J5z7/view?usp=drive_link",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/siraj%20%20resume%20%202.pdf?alt=media&token=20c2214d-fb07-46d7-8c22-d0ae43094d85",
   linkedin: "https://www.linkedin.com/in/siraj-shaikh-a9b583286/",
 
   insta: "https://www.instagram.com/sanketfulpagare32/",
@@ -236,7 +236,7 @@ export const experiences = [
     date: "June 2021 - Oct 2021",
     desc: "Learned about the Fundamentals of Android Development,Developed a robust Android application for weather forecasting using Java and XML in Android Studio",
     skills: ["Android", " Studio", "REST APIs", "Java", "XML"],
-    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/iBase%20Certificate.jpeg?alt=media&token=5064a044-0d6e-419b-9951-db0f3afa998c",
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/I_BASE.png?alt=media&token=34d61a00-8d4d-44d6-a923-e4e0b6b65dc5",
   },
 ];
 
@@ -276,11 +276,11 @@ export const projects = [
     title: "Food Ordering Web",
     date: "2023",
     video:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/vid1.mp4?alt=media&token=85f2e049-79c1-4c48-a57f-a89da2455907",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/BHUKKAD_WEBSITE.mp4?alt=media&token=c854db11-91a6-4949-a3a7-a278065dd1df",
     description:
       "Developed a user-friendly food ordering website using modern technologies such as React.js, Redux, Node.js, and Tailwind CSS.Implemented dynamic user interfaces with configurable options to enhance user experience.- Integrated advanced features like cart functionality for seamless order management. ",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/foodOrdering.png?alt=media&token=cd40e666-ff25-4458-8c98-d538c44a4d67",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/Bhukkad%20SS.png?alt=media&token=a69be7c1-bc3e-4c09-bc8c-d77df2492ebf",
     tags: [
       "React Js",
       "Node Js",
@@ -291,36 +291,10 @@ export const projects = [
       "REST APIs",
     ],
     category: "web app",
-    github: "https://github.com/sanketfulpagare2/namaste-react",
-    webapp: "https://namaste-react-lemon.vercel.app/",
+    github: "https://github.com/sirajshaikh7068/FoodApp",
+    webapp: "https://bhukkad-delivery-app.netlify.app/",
   },
-  // {
-  //   // id: 0,
-  //   // title: "Podstream",
-  //   // date: "Apr 2023 - May 2023",
-  //   // description:
-  //   //   "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   // image:
-  //   //   "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   // tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   // category: "web app",
-  //   // github: "https://github.com/rishavchanda/Podstream",
-  //   // webapp: "https://podstream.netlify.app/",
-  //   // member: [
-  //   //   {
-  //   //     name: "Rishav Chanda",
-  //   //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //   //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //   //     github: "https://github.com/rishavchanda/",
-  //   //   },
-  //   //   {
-  //   //     name: "Upasana Chaudhuri",
-  //   //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //   //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //   //     github: "https://github.com/upasana0710",
-  //   //   },
-  //   // ],
-  // },
+
   {
     id: 1,
     title: "NetflixGPT",
@@ -333,9 +307,26 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/NetflixGpt.png?alt=media&token=49da4707-6d90-4e82-8c89-391e8e6b6a72",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://netflix-gpt-eight-inky.vercel.app/",
+    github: "https://github.com/sirajshaikh7068/netflixGPT",
+    webapp: "https://netflix-gpt-xi-rust.vercel.app/",
   },
+
+  {
+    id: 2,
+    title: "Movies Info",
+    date: "2023-2024",
+    video:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-e552a.appspot.com/o/vid2.mp4?alt=media&token=b4a5c095-a6d3-4b3d-bca0-7a33c3506170",
+    description:
+      "Built a responsive movie information website using React, Redux, and Tailwind CSS, integrating TMDB API for real-time movie data and user interactions.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/MoviesInfo.png?alt=media&token=47b5f0e2-1409-4e66-8e7e-4328370df576",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/sirajshaikh7068/Netflix_App_clone",
+    webapp: "https://netflix-app-clone-dqqb.vercel.app/",
+  },
+
   // {
   //   id: 2,
   //   title: "Movie App (In-Progress)",
