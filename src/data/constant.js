@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sirajshaikh7068",
   resume:
-    "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/ud%20siraj%20resume.pdf?alt=media&token=2494b477-8a76-49bc-9553-799967b3cf41",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-17af5.appspot.com/o/SIRAJ%20CV.pdf?alt=media&token=cc4bd739-a8aa-477f-9372-292b5adf2e79",
   linkedin: "https://www.linkedin.com/in/siraj-shaikh-a9b583286/",
 
   insta: "https://www.instagram.com/sanketfulpagare32/",
